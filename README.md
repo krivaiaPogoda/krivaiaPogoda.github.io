@@ -1,1 +1,0 @@
-# krivaiaPogoda.github.io
