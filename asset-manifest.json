@@ -1,0 +1,19 @@
+{
+  "main.css": "/static/css/main.5f43865f.chunk.css",
+  "main.js": "/static/js/main.668609c5.chunk.js",
+  "main.js.map": "/static/js/main.668609c5.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
+  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
+  "static/js/2.fb6ee956.chunk.js": "/static/js/2.fb6ee956.chunk.js",
+  "static/js/2.fb6ee956.chunk.js.map": "/static/js/2.fb6ee956.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.d708e395796001caabdd2a8bd181f1f3.js": "/precache-manifest.d708e395796001caabdd2a8bd181f1f3.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.5f43865f.chunk.css.map": "/static/css/main.5f43865f.chunk.css.map",
+  "static/media/Thermometer.png": "/static/media/Thermometer.d1875d76.png",
+  "static/media/barometer.png": "/static/media/barometer.a5e0e77d.png",
+  "static/media/index.css": "/static/media/bg.63d8c12f.jpg",
+  "static/media/feeling.png": "/static/media/feeling.533034f4.png",
+  "static/media/humidity.png": "/static/media/humidity.4f4d69e2.png",
+  "static/media/wind.png": "/static/media/wind.2185dd55.png"
+}
